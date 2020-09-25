@@ -1,2 +1,3 @@
+com\moviecatalog\moviecatalogService\Controller\MovieCatalogResource.class
 com\moviecatalog\moviecatalogService\MoviecatalogServiceApplication.class
-com\moviecatalog\moviecatalogController\MovieCatalogResource.class
+com\moviecatalog\moviecatalogService\model\MovieCatalogModel.class

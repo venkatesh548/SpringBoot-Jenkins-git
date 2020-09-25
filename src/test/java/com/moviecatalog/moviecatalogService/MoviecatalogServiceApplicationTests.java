@@ -25,6 +25,11 @@ class MoviecatalogServiceApplicationTests {
 		LOGGER.info("Entred into Test cases .....");
 		assertEquals(true,true);
 	}
-
+	@Test
+	void testingSecond() {
+		
+		LOGGER.info("This is second method in Test case...................");
+		assertEquals("hello","hello");
+	}
 	
 }
