@@ -26,7 +26,7 @@ class MoviecatalogServiceApplicationTests {
 		assertEquals(true,true);
 	}
 	@Test
-	void testingSecond() {
+	void testingSecond( {
 		
 		LOGGER.info("This is second method in Test case...................");
 		assertEquals("hello","hello");		
