@@ -29,8 +29,7 @@ class MoviecatalogServiceApplicationTests {
 	void testingSecond() {
 		
 		LOGGER.info("This is second method in Test case...................");
-		assertEquals("hello","hello");
-		LOGGER.info("This is after  method in Test case...................");
+		assertEquals("hello","hello");		
 	}
 	
 }
